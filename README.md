@@ -2,6 +2,10 @@
 
 RTP is 99%
 
+## Showcase
+
+![showcasegif](https://raw.githubusercontent.com/thesstraight/redOrBlack/refs/heads/main/showcase.gif)
+
 ## Installation
 
 1. Clone this repository via terminal
